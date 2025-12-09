@@ -12,6 +12,10 @@ It contains:
 - Requirements file for dependency installation
 
 ---
+## Hook and Rubric Documents
+The hook document outlining the case study is the file labeled Hook Document.pdf. The rubric Rubric.pdf outlines the final deliverables for this assignment. Both documents should be referenced continously throughout the duration of the project in order to ensure success. 
+
+
 
 ## Section 1: Software and Platform  
 ### **Software**
